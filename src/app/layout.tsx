@@ -3,8 +3,8 @@ import './globals.css'
 
 // Done after the video and optional: add page metadata
 export const metadata = {
-  title: 'FriendZone | Home',
-  description: 'Welcome to the FriendZone',
+  title: 'Vchat | Home',
+  description: 'Welcome to the Vchat',
 }
 
 export default function RootLayout({
